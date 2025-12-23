@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sammuhrai
+- 👋 Hi, I’m @sammuharem
 - 👀 I’m interested in finance projects and data analysis
 - 🌱 I’m currently learning machine learning and implementations of artificial intelligence in both a finance and non-finance environment
 - 💞️ I’m looking to collaborate on finance-related projects
